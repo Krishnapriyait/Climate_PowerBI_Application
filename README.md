@@ -292,47 +292,31 @@ to interact with visuals.
 
 ## Screenshots
 
-```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b526b06-cd26-4863-9baa-9f601ac8fc1d" />
 
-```
-```
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c04faf90-b132-461c-8e03-fe4e071d0cb3" />
 
 
-```
-```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9a1e0ee-d89d-45b7-9077-038a44b24472" />
 
 
-```
-```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/728dc804-65e1-4651-b6d9-5b687587e040" />
 
 
-```
-```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7cb0f8e7-1765-46c0-b8a0-d9aa9ae0e52d" />
 
 
-```
-```
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fa294aab-eede-42b6-a440-ac636b04ea87" />
 
 
-```
-```
 <img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/4d577d18-19c1-41bf-834d-7787bfb6866d" />
 
 
-```
-```
 <img width="1919" height="937" alt="image" src="https://github.com/user-attachments/assets/caba9d54-aa0f-41e4-b69a-0996ca457bb4" />
 
 
 ```
-
----
 
 ## Demo Video
 
