@@ -25,7 +25,7 @@ This dashboard is designed for **students, researchers, analysts, and policymake
 ## Dashboard DriveLinnk
 
 ```
-https://drive.google.com/file/d/your_video_link
+https://drive.google.com/file/d/1_w2Lu55TIhAapR0IAJQwurhXcyeCME6B/view?usp=drive_link
 ```
 
 ---
@@ -34,7 +34,7 @@ https://drive.google.com/file/d/your_video_link
 ## Dataset DriveLink
 
 ```
-https://drive.google.com/file/d/your_video_link
+https://drive.google.com/file/d/1U8KMcbEqH1JZ-K-7Xsp5qFBL9S48_Vsy/view?usp=drive_link
 ```
 
 ---
@@ -320,7 +320,7 @@ to interact with visuals.
 
 Demo Video
 
-https://drive.google.com/file/d/your_video_link
+https://drive.google.com/file/d/13WLZ1G_BhxpiFx2WkLB8lusAcV_NhVyT/view?usp=drive_link
 
 
 Key Insights Generated
