@@ -318,24 +318,26 @@ to interact with visuals.
 
 ```
 
-🎥 Demo Video
-
-Upload demo video and paste link:
-
-Example:
+Demo Video
 
 https://drive.google.com/file/d/your_video_link
-📈 Key Insights Generated
+
+
+Key Insights Generated
+
 Increasing trend in CO₂ emissions
 Rising global temperature levels
 Sea level rise pattern over years
 Growth of renewable energy usage
 Increase in extreme climate events
 Relationship between GDP and emissions
-👩‍💻 Author
+
+
+Author
 
 Krishna Priya
 
-📄 License
+
+License
 
 This project is for educational and academic purposes.
