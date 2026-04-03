@@ -320,7 +320,9 @@ to interact with visuals.
 
 ## Demo Video
 
+---
 https://drive.google.com/file/d/your_video_link
+---
 
 ---
 
